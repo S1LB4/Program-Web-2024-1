@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+}
+
+.image-container {
+    margin-bottom: 10px;
+}
+
+.image-evolution {
+    max-width: 200px;
+    height: auto;
+    transition: opacity 0.5s ease;
+    border-radius: 5px;
+}
+
+button{
+    font-size: 20px;
+    font-weight: bold;
+}
+.reset-container {
+    margin-top: 10px;
+    align-items: center;
+}
+.textbtn{
+    color: white;
+}
