@@ -1,0 +1,16 @@
+.button {
+    background-color: white; 
+    color: black; 
+    border: 2px solid gray;
+    padding: 10px 20px; 
+    font-size: 16px; 
+    cursor: pointer; 
+    transition: background-color 0.3s, color 0.3s;
+    margin-top: -20px; 
+}
+
+.button:hover, .button:focus {
+    background-color: aliceblue; 
+    color: navy; 
+    outline: none; 
+}
