@@ -1,6 +1,6 @@
 import React from 'react'
-import { InputSearch } from '../InputSearch/InputSearch'
-import { Results } from '../Results/Results'
+import { InputSearch } from '../SearchBar/SearchBar'
+import { Results } from '../Caller/Caller'
 
 export function Body(){
     return(
